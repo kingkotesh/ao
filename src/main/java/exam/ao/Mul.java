@@ -2,7 +2,7 @@ package exam.ao;
 
 public class Mul {
 
-	public static int Mul(int a,int b)
+	public static int mul(int a,int b)
 	{
 		return a*b;
 	}
